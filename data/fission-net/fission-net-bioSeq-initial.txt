@@ -1,0 +1,10 @@
+#Node	#Bio-initial-binary-state
+SK	1
+Cdc2_Cdc13	0
+Ste9	1
+Rum1	1
+Slp1	0
+Cdc2_Cdc13_active	0
+Wee1_Mik1	1
+Cdc25	0
+PP	0	
